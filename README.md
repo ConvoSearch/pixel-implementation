@@ -69,7 +69,7 @@ t.onload = function() {
 };
 s=d.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window,document,'script',
-'https://www.conversecart.com/conversecart.js');
+'https://conversecart.b-cdn.net/conversecart.js');
 </script>
 ```
 
